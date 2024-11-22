@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *" # 매시간마다 실행
-  workflow_dispatch: # 수동 실행 가능
+    - cron: "0 * * * *"
+  workflow_dispatch:
 permissions:
   contents: write
 
@@ -17,3 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://ooyuo.github.io/feed.xml"
+          max_post_count: 5
+          template: |
+            ### $title
+            template: "* [$title]($url) [Read More]($url)"
