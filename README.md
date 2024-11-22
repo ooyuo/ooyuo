@@ -15,6 +15,5 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->### React Native Android namespace 자동화하기
+template: "* [React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/) [Read More](https://ooyuo.github.io/posts/rn-android-namespace/)"<!-- BLOG-POST-LIST:END -->
