@@ -51,11 +51,14 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)
-    <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
   ➡️ [Read more blog posts...](https://ooyuo.github.io)
+    </div>
   </div>
-  </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
