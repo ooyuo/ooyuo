@@ -48,11 +48,7 @@
 
 ### 📚 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Ga4 Gtm Integration For Webview Project](https://ooyuo.github.io/posts/ga4-gtm-integration-for-webview-project/)
-- [React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Ga4 Gtm Integration For Webview Project](https://ooyuo.github.io/posts/ga4-gtm-integration-for-webview-project/)- [React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more blog posts...](https://ooyuo.github.io)
 
