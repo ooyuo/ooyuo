@@ -42,9 +42,9 @@
 6. 💪 Opened PR [#29](https://github.com/hanghae-plus/front_3rd_chapter1-3/pull/29) in [hanghae-plus/front_3rd_chapter1-3](https://github.com/hanghae-plus/front_3rd_chapter1-3)
 7. 💪 Opened PR [#114](https://github.com/hanghae-plus/front_3rd_chatper1/pull/114) in [hanghae-plus/front_3rd_chatper1](https://github.com/hanghae-plus/front_3rd_chatper1)
 8. 💪 Opened PR [#48](https://github.com/hanghae-plus/front_3rd_chatper1/pull/48) in [hanghae-plus/front_3rd_chatper1](https://github.com/hanghae-plus/front_3rd_chatper1)
-<!--END_SECTION:activity-->
-   </td>
-<td width="40%" valign="top">
+   <!--END_SECTION:activity-->
+      </td>
+   <td width="40%" valign="top" style="display: flex; flex-direction: column;">
 
 ### 📚 Blog posts
 
