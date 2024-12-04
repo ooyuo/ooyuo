@@ -18,4 +18,5 @@ jobs:
         with:
           feed_list: "https://ooyuo.github.io/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)\n"
+          template: |
+            - [$title]($url)
