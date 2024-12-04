@@ -26,8 +26,9 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-<div style="display: flex; gap: 24px;">
-<div style="flex: 0.6">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 👨‍💻 Recent Activity
 
@@ -41,10 +42,9 @@
 6. 💪 Opened PR [#29](https://github.com/hanghae-plus/front_3rd_chapter1-3/pull/29) in [hanghae-plus/front_3rd_chapter1-3](https://github.com/hanghae-plus/front_3rd_chapter1-3)
 7. 💪 Opened PR [#114](https://github.com/hanghae-plus/front_3rd_chatper1/pull/114) in [hanghae-plus/front_3rd_chatper1](https://github.com/hanghae-plus/front_3rd_chatper1)
 8. 💪 Opened PR [#48](https://github.com/hanghae-plus/front_3rd_chatper1/pull/48) in [hanghae-plus/front_3rd_chatper1](https://github.com/hanghae-plus/front_3rd_chatper1)
-   <!--END_SECTION:activity-->
-   </div>
-
-<div style="flex: 0.4">
+<!--END_SECTION:activity-->
+   </td>
+<td width="40%" valign="top">
 
 ### 📚 Blog posts
 
@@ -52,8 +52,9 @@
 
 ➡️ [Read more blog posts...](https://ooyuo.github.io)
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <!--START_SECTION:waka-->
 
