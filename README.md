@@ -48,7 +48,7 @@
 
 ### 📚 Blog posts
 
-<!-- BLOG-POST-LIST:START -->- <div>[GA4와 GTM 적용기 - 웹뷰 프로젝트의 사용자 분석](https://ooyuo.github.io/posts/ga4-gtm-integration-for-webview-project/)</div>- <div>[React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)</div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- <div>[Channel Talk 업데이트로 인한 Maven Repository 설정 이슈 해결하기](https://ooyuo.github.io/posts/channel-talk-maven-repository-issue/)</div>- <div>[GA4와 GTM 적용기 - 웹뷰 프로젝트의 사용자 분석](https://ooyuo.github.io/posts/ga4-gtm-integration-for-webview-project/)</div>- <div>[React Native Android namespace 자동화하기](https://ooyuo.github.io/posts/rn-android-namespace/)</div><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more blog posts...](https://ooyuo.github.io)
 
